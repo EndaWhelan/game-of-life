@@ -122,7 +122,7 @@
         <module>gameoflife-web</module>
         <module>gameoflife-webservice</module>
         <module>gameoflife-cli</module>
-        <module>gameoflife-webtests</module>
+<!--         <module>gameoflife-webtests</module> -->
     </modules>
     <distributionManagement>
         <repository>
